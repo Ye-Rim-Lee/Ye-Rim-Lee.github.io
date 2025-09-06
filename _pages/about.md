@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: right
   image: Profile-formal.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>458 W Circle Dr</p>
     <p>East Lansing, MI 48824</p>
@@ -27,7 +27,7 @@ latest_posts:
 ---
 
 Hello!
-I am a Ph.D. candidate in the [Department of Agricultural, Food, and Resource Economics](https://www.canr.msu.edu/afre/) at Michigan State University. My area of interest is Energy Economics and Regional Economics. I received my Masters in Climate, Environment, and Energy Studies and B.A. in Economics from Sookmyung Women's University in Seoul, South Korea.
+I am a Ph.D. candidate in the [Department of Agricultural, Food, and Resource Economics](https://www.canr.msu.edu/afre/) at Michigan State University. My areas of interest are Energy Economics and Regional Economics. I received my Masters in Climate, Environment, and Energy Studies and B.A. in Economics from Sookmyung Women's University in Seoul, South Korea.
 
 My first name is pronounced _Yeh-Reem_.
 
