@@ -31,4 +31,4 @@ I am a Ph.D. candidate in the [Department of Agricultural, Food, and Resource Ec
 
 My first name is pronounced _Yeh-Reem_.
 
-I am also enthusiastic about crochet, playing electric guitar and coding mobile productivity applications 😎
+<!-- I am also enthusiastic about crochet, playing electric guitar and coding mobile productivity applications 😎 -->
