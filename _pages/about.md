@@ -9,8 +9,6 @@ profile:
   image: Profile-formal.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-  <!-- <p>458 W Circle Dr</p>
-  <p>East Lansing, MI 48824</p> -->
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
