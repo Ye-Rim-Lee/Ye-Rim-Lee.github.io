@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD Candidate, <a href = "https://www.canr.msu.edu/afre/">Michigan State University</a>
 
