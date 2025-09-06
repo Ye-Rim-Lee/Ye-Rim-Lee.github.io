@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yerimlee.github.io/sitemap.xml
+Sitemap: https://Ye-Rim-Lee.github.io/sitemap.xml
