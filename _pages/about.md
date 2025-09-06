@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.canr.msu.edu/afre/'>Michigan State University</a>
+subtitle: 
 
 profile:
   align: right
