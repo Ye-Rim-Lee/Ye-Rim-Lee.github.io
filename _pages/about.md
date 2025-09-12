@@ -24,6 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+**[ THIS WEBSITE IS UNDER CONSTRUCTION ]**
+
 Hello!
 I am a Ph.D. candidate in the [Department of Agricultural, Food, and Resource Economics](https://www.canr.msu.edu/afre/) at Michigan State University. My areas of interest are Energy Economics and Regional Economics. I received my Masters in Climate, Environment, and Energy Studies and B.A. in Economics from Sookmyung Women's University in Seoul, South Korea.
 
